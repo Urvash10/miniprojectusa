@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">841900390088-mviadcclhi5ld17r29tqeq12dh651020.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shehrotees.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">841900390088</string>
+    <string name="google_api_key" translatable="false">AIzaSyBt9EySEB0V5gOwCRZRMIg6RZzePxjF5TY</string>
+    <string name="google_app_id" translatable="false">1:841900390088:android:224c088b78ba0fb9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBt9EySEB0V5gOwCRZRMIg6RZzePxjF5TY</string>
+    <string name="google_storage_bucket" translatable="false">shehrotees.appspot.com</string>
+    <string name="project_id" translatable="false">shehrotees</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shehrotees</string>
+    <string name="Shop1">Shop 1</string>
+    <string name="title_activity_shop1__items">Shop1_Items</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Food</string>
+    <string name="tab_text_2">Drinks</string>
+    <string name="shop_2">Shop 2</string>
+    <string name="shop_1">Shop 1</string>
+    <string name="shop_3">Shop 3</string>
+    <string name="take_a_pick">Take a pick</string>
+    <string name="tab1_food_text">tab1 Food text</string>
+    <string name="tab2_drinks_text">Tab2 Drinks text</string>
+    <string name="name_of_food">Name of Food</string>
+    <string name="name_of_drink">Name of Drink</string>
+    <string name="item_list">Item List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_list1">Item List</string>
+</resources>

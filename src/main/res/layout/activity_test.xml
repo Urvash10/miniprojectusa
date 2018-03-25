@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.urvash.shehrotees.TestActivity">
+
+    <TextView
+        android:id="@+id/infoTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/take_a_pick"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/Shop1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:text="@string/shop_1"
+        android:textSize="18sp"
+        android:onClick="onClick"/>
+
+    <Button
+        android:id="@+id/Shop2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_below="@id/Shop1"
+        android:text="@string/shop_2"
+        android:textSize="18sp"
+        tools:ignore="ObsoleteLayoutParam" />
+
+    <Button
+        android:id="@+id/Shop3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Shop2"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:text="@string/shop_3"
+        android:textSize="20sp"
+        tools:ignore="ObsoleteLayoutParam" />
+</LinearLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "841900390088",
+    "firebase_url": "https://shehrotees.firebaseio.com",
+    "project_id": "shehrotees",
+    "storage_bucket": "shehrotees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841900390088:android:224c088b78ba0fb9",
+        "android_client_info": {
+          "package_name": "com.example.urvash.shehrotees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841900390088-fsfs1mfa0j8gg3j298100n8bfkfrrv7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urvash.shehrotees",
+            "certificate_hash": "f7dab589d607058b1ab83dcbdad2219521711326"
+          }
+        },
+        {
+          "client_id": "841900390088-mviadcclhi5ld17r29tqeq12dh651020.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9EySEB0V5gOwCRZRMIg6RZzePxjF5TY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841900390088-mviadcclhi5ld17r29tqeq12dh651020.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
